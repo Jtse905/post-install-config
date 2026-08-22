@@ -49,7 +49,7 @@ Once we are logged in, you will be at the Admin Panel Dashboard.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click on the "Agents" tab that is on the top bar. 
+Click on the "Agents" tab that is on the top bar. In the "Agents" tab, click on "Roles". 
 </p>
 <br />
 
@@ -73,7 +73,7 @@ Click the gold "Add Role" button. Here you will be able to set permissions for t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+Here you are able to see the new role you have created in the "Roles" list. Next, we will create a new department. 
 </p>
 <br />
 
@@ -81,7 +81,7 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+To create a new department, 
 </p>
 <br />
 
