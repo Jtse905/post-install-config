@@ -97,7 +97,7 @@ Here you will name your department and configure it. Once configured, click the 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+After creation, you can view the new department in the "Departments" list. 
 </p>
 <br />
 
