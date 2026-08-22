@@ -81,7 +81,7 @@ Here you are able to see the new role you have created in the "Roles" list. Next
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To create a new department, 
+To create a new department, click "Departments" in the "Agents" tab, then click "Add New Department". 
 </p>
 <br />
 
@@ -89,7 +89,7 @@ To create a new department,
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+Here you will name your department and configure it. Once configured, click the gold "Create Dept" button at the bottom. 
 </p>
 <br />
 
