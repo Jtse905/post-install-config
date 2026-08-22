@@ -97,7 +97,7 @@ Here you will name your department and configure it. Once configured, click the 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creation, you can view the new department in the "Departments" list. 
+After creation, you can view the new department in the "Departments" list. Next we will create a new team. 
 </p>
 <br />
 
@@ -105,7 +105,7 @@ After creation, you can view the new department in the "Departments" list.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+To begin creating a new team, click "Teams" in the "Agents" tab. Here, click "Add New Team". 
 </p>
 <br />
 
@@ -113,7 +113,7 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+For this lab we will name the new team "Online Banking". Once you name your team, click on the gold "Create Team" button at the bottom. 
 </p>
 <br />
 
@@ -121,7 +121,7 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+After creation, you can view the new team you have created in the "Teams" list. 
 </p>
 <br />
 
@@ -129,7 +129,7 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+If you would like to configure extra settings, such as allowing users without an account create tickets, click the "Settings" tab at the top of osTicket. Once in the settings, go to "Users". You can adjust the "Registration Required" setting. 
 </p>
 <br />
 
