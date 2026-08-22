@@ -137,7 +137,7 @@ If you would like to configure extra settings, such as allowing users without an
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+Next, we will create a new Agent. To create a new Agent, click on the "Agents" tab. Once there, click on "Agents". Then click on "Add New Agent". 
 </p>
 <br />
 
@@ -145,7 +145,7 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+Fill out the Agents information. Then go to the "Access" tab next.
 </p>
 <br />
 
@@ -153,7 +153,7 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+Here, you are able to assign the new Agent to a department, for this lab I assigned the Agent to the Sys Admin department I created with Ultra Admin permission role I created earlier. 
 </p>
 <br />
 
@@ -161,7 +161,7 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+Once you have set the Agents access, you can also assign the Agent to a Team. In this lab, I assigned the new Agent to the Online Banking Team I created earlier in this lab. 
 </p>
 <br />
 
@@ -169,39 +169,6 @@ dwadawdawda
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadawdawda
+Here you can see the new Agent you have created in the "Agents" list. 
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-dwadawdawda
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-dwadawdawda
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-dwadawdawda
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-dwadawdawda
-</p>
-<br />
-
