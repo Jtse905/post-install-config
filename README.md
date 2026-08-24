@@ -20,14 +20,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Main objective:
-- Secondary Objective:
+  - Create osTicket entities (agents,teams,departments)
+- Secondary Objectives:
+  - Configure created entities 
   
 <h2>Configuration Steps</h2>
-
-<p>
-In this lab, we will create and configure agents, teams, departments, and permissions within osTicket. 
-</p>
-<br />
 
 <p>
 <img width="1190" height="1115" alt="1" src="https://github.com/user-attachments/assets/d6087b71-bbce-4fcc-9780-03c48871a828" />
