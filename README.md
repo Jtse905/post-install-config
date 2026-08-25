@@ -170,3 +170,8 @@ Once you have set the Agents access, you can also assign the Agent to a Team. In
 Here you can see the new Agent you have created in the "Agents" list. 
 </p>
 <br />
+
+<p>
+Project end. 
+</p>
+<br />
